@@ -6,8 +6,8 @@ LIC_FILES_CHKSUM = "file://COPYING.md;md5=eec4de4d599518742e54e75954e33b46"
 
 PYPI_PACKAGE = "traitlets"
 
-SRC_URI[md5sum] = "7dc642d19d1268a8268f46f33ff871c6"
-SRC_URI[sha256sum] = "4c9a7212db9642056ea4fcd4ba9e18d302eb617daf679f45fd8cb5d19687b640"
+SRC_URI[md5sum] = "66b76cfffd590c39861bc11c247725a5"
+SRC_URI[sha256sum] = "a2e91709a0330b6c5d497ed470b2feb1ed8da5c9dd807c6daab41f727b9391c9"
 
 RDEPENDS_${PN} = "\
     ${PYTHON_PN}-ipython-genutils \
